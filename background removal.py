@@ -14,7 +14,7 @@ camera.set(4 , 480)
 mountain = cv2.imread('mount everest.jpg')
 
 # resizing the mountain image as 640 X 480
-
+resize='640x480'
 
 while True:
 
